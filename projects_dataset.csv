@@ -1,0 +1,21 @@
+project_id,name,description,team,priority,status,start_date,due_date,owner
+1,Website Redesign,Refresh the company website UI and improve mobile usability,Design,High,In Progress,2026-09-01,2026-11-15,Sinchana
+2,Mobile App Launch,Prepare the mobile app for public release,Product,High,In Progress,2026-09-10,2026-12-01,Rahul
+3,Customer Support Portal,Build a self-service help center for customers,Engineering,Medium,To Do,2026-10-01,2026-12-20,Priya
+4,Sales Analytics Dashboard,Create dashboards for sales performance tracking,Analytics,High,In Progress,2026-08-15,2026-11-30,Arjun
+5,Employee Onboarding,Streamline onboarding tasks for new employees,HR,Medium,To Do,2026-10-05,2026-12-10,Meera
+6,E-commerce Checkout,Improve cart and checkout conversion,Engineering,High,In Progress,2026-09-20,2026-11-20,Kiran
+7,Knowledge Base Migration,Move internal articles into the new knowledge base,Operations,Low,Completed,2026-07-01,2026-09-30,Ananya
+8,Security Audit,Review application security and remediate findings,Security,High,To Do,2026-10-12,2026-12-05,Vikram
+9,Email Automation,Automate customer lifecycle email campaigns,Marketing,Medium,In Progress,2026-09-15,2026-11-25,Divya
+10,Inventory Management,Improve stock tracking and low-stock alerts,Operations,Medium,To Do,2026-10-08,2027-01-15,Naveen
+11,Learning Management System,Develop course and learner management features,Product,High,In Progress,2026-08-20,2027-01-10,Asha
+12,API Documentation,Document public APIs and integration examples,Engineering,Low,Completed,2026-08-01,2026-10-01,Rohan
+13,Marketing Campaign Q4,Plan and launch the fourth-quarter campaign,Marketing,High,In Progress,2026-09-01,2026-12-15,Pooja
+14,Data Quality Initiative,Identify and resolve data consistency issues,Analytics,Medium,To Do,2026-10-15,2027-01-20,Sanjay
+15,Remote Work Handbook,Publish updated remote-work policies and guides,HR,Low,Completed,2026-08-10,2026-09-25,Isha
+16,Payment Gateway Upgrade,Upgrade payment integration and improve reliability,Engineering,High,To Do,2026-10-10,2027-01-05,Manoj
+17,Customer Feedback Analysis,Analyze feedback themes and prioritize improvements,Analytics,Medium,In Progress,2026-09-05,2026-11-10,Neha
+18,Brand Guidelines Refresh,Update brand assets and design standards,Design,Low,To Do,2026-10-01,2026-12-01,Tanya
+19,Cloud Cost Optimization,Reduce infrastructure spend without impacting service,Operations,Medium,In Progress,2026-09-01,2026-12-20,Ajay
+20,Accessibility Improvements,Improve keyboard navigation and screen-reader support,Design,High,To Do,2026-10-06,2027-01-15,Lakshmi

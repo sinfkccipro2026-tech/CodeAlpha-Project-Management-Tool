@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block title %}{{ title }} · TaskFlow{% endblock %}{% block content %}<div class="form-wrap card"><a class="back" href="{% if back_id %}{% url back back_id %}{% else %}{% url back %}{% endif %}">← Back</a><h1>{{ title }}</h1><form method="post">{% csrf_token %}{{ form.as_p }}<button class="btn">Save</button></form></div>{% endblock %}
